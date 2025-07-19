@@ -26,4 +26,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: tinaok/eopf-webiner6-docker:latest
+          tags: tinaok/eopf-webiner6-docker:stable
+#          tags: tinaok/eopf-webiner6-docker:latest
